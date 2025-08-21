@@ -1,11 +1,11 @@
-# React + Vite
+This is my personal portfolio website built using modern web technologies. It showcases my projects, skills, and experience as a Full-Stack Developer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
+Clean and responsive UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projects showcase with live links & GitHub repos
 
-## App Link :-
-https://jahir-mullick-portfollio.vercel.app/
+About me & skills section
+
+Contact form / social media links
