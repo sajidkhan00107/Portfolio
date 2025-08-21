@@ -7,9 +7,9 @@
             "imgSrc": "https://i.ibb.co/8dyQzz2/pexels-cottonbro-studio-7437088.jpg"
         },
         {
-            "date": "03/2022 - 06/2022",
+            
             "title": "Software Developer Intern",
-            "url": "",
+            "url": "https://drive.google.com/drive/folders/1F-4absUqr42PMioedtXgZ-uIxlYaAT83?usp=sharing",
             "description": "Computer Science student adept in HTML, CSS, and JavaScript. Hands-on experience in project setup, requirements analysis, and collaborating on development and testing. Eager to contribute and learn.",
             "imgSrc": "https://i.ibb.co/8dyQzz2/pexels-cottonbro-studio-7437088.jpg"
         }
@@ -35,6 +35,13 @@
             "description": "Lilith AI is a full-stack AI-powered chat application built with React, Express (Node.js), MongoDB Atlas, and Google Gemini AI, with Clerk authentication for secure login and signup.",
             "url": "https://github.com/sajidkhan00107/LILITH-AI",
             "imgSrc":  "https://i.ibb.co/1GTzJL5Z/Screenshot-2025-05-09-162107.png"
+
+        },{
+            "date": "01/2024 - 04/2024",
+            "title": "Pasmec",
+            "description": "Designed and developed a responsive website for ”Pasmec,” a building construction company, using HTML, CSS, and JavaScript. Focused on creating an attractive UI and showcasing the company’s services effectively.",
+            "url": "http://pasmecbim.com/About%20Us/about.html",
+            "imgSrc":  "https://i.ibb.co/1Y4GBW2T/ip5.png"
 
         }
        
